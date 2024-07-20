@@ -14,6 +14,9 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "Punchline": "Track your best kill times!",
-        "AcceptsFeedback": true
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/blob/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/blob/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/blob/master/plugins/FFLogsViewer/latest.zip"
     }
 ]
