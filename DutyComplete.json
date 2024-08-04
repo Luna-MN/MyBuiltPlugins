@@ -15,8 +15,8 @@
         "LoadPriority": 0,
         "Punchline": "Track your best kill times!",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/Luna-MN/ffxiv-plugin/blob/master/DutyComplete/Latest/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Luna-MN/ffxiv-plugin/blob/master/DutyComplete/Latest/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Luna-MN/ffxiv-plugin/blob/master/DutyComplete/Latest/latest.zip"
+        "DownloadLinkInstall": "https://github.com/Luna-MN/ffxiv-plugin/raw/master/DutyComplete/Latest/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Luna-MN/ffxiv-plugin/raw/master/DutyComplete/Latest/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Luna-MN/ffxiv-plugin/raw/master/DutyComplete/Latest/latest.zip"
     }
 ]
